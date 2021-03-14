@@ -30,8 +30,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_modular: ^3.0.1
   mobx: ^2.0.0-nullsafety.3
-  flutter_mobx:
-  dio: ^3.0.10
+  flutter_mobx: ^2.0.0-nullsafety.1
+  dio: ^4.0.0-beta7
   
 dev_dependencies:
   build_runner:
