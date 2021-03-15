@@ -1,5 +1,5 @@
 import 'package:mobx/mobx.dart';
-import 'package:slidy_modular/app/shared/repositories/poke_repository.dart';
+import 'package:slidy_modular/app/modules/home/repositories/poke_repository.dart';
 part 'home_controller.g.dart';
 
 class HomeController = _HomeControllerBase with _$HomeController;
